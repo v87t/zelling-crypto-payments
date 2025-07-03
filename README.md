@@ -1,6 +1,6 @@
 # Zelling.io - API Documentation & Support
 
-![Zelling Banner](https://i.imgur.com/AXP86m7.png)
+![Zelling Banner](https://i.imgur.com/kxTmlP6.png)
 
 Zelling.io is the official website where you can find the full API documentation, support, and more. The project uses a proprietary anti-DDoS system with load balancers, ensuring constant stability and security. We encourage you to use the platform for reliable and secure transactions.
 
